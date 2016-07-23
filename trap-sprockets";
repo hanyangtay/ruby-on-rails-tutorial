@@ -1,0 +1,59 @@
+[33mcommit 7ff2ca49b5f045615935c3b6f5aa9aede919761a[m
+Author: Han Yang Tay <htay@wesleyan.edu>
+Date:   Sat Jul 23 06:27:52 2016 +0000
+
+    Finish layout and routes
+
+[33mcommit b13c97d7a0bb0c85df0e404d6958d5dba84fe674[m
+Author: Han Yang Tay <htay@wesleyan.edu>
+Date:   Fri Jul 22 15:56:50 2016 +0000
+
+    Add a full_title helper
+
+[33mcommit 15ebbd1c8dbd549cb9d06e29ff5aca69eb4234b5[m
+Author: Han Yang Tay <htay@wesleyan.edu>
+Date:   Thu Jul 21 16:12:11 2016 +0000
+
+    Finished static pages v4.
+
+[33mcommit 363f4faa4ff7f056c06a981e2f7086354f493b7f[m
+Author: Han Yang Tay <htay@wesleyan.edu>
+Date:   Thu Jul 21 16:08:34 2016 +0000
+
+    Finished static pages v3.
+
+[33mcommit 59485289d630d74d874b8049bb4501e9b1c63ab1[m
+Author: Han Yang Tay <htay@wesleyan.edu>
+Date:   Thu Jul 21 16:00:05 2016 +0000
+
+    Finish static pages v2
+
+[33mcommit a987284dbe3a6e4f60fd3950ab4d1025b36e2c5b[m
+Author: Han Yang Tay <htay@wesleyan.edu>
+Date:   Thu Jul 21 15:55:28 2016 +0000
+
+    Finish static pages
+
+[33mcommit bcce983b73255bb09a572b17054258f352dceb22[m
+Author: Han Yang Tay <htay@wesleyan.edu>
+Date:   Thu Jul 21 15:16:32 2016 +0000
+
+    Add a Static Pages controller
+
+[33mcommit 424647d1f20c6b3ba8efc66fa895b2abf5f9e390[m
+Author: Han Yang Tay <htay@wesleyan.edu>
+Date:   Thu Jul 21 15:13:11 2016 +0000
+
+    Add hello
+
+[33mcommit 910ee998a6964277821988ef29ac6a10603370b0[m
+Author: Han Yang Tay <htay@wesleyan.edu>
+Date:   Thu Jul 21 15:08:53 2016 +0000
+
+    Improve the README
+
+[33mcommit 89b3020bff995541241a183300d736c4025309f0[m
+Author: Han Yang Tay <htay@wesleyan.edu>
+Date:   Thu Jul 21 15:03:58 2016 +0000
+
+    Initialise repository
