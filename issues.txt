@@ -1,0 +1,7 @@
+1. Sign up new account while still logged in.
+ - Home page is irrelevant once user has signed in.
+ 
+2. Can send password reset email even if account isn't activated yet.
+ - should check first
+ 
+ 
