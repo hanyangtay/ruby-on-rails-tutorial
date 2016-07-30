@@ -43,8 +43,7 @@ VALID_EMAIL_REGEX = /\A[\w+\-.]+@[a-z\d\-]+(\.[a-z\d\-]+)*\.[a-z]+\z/i
   
   
   def activate
-    update_attribute(:activated, true)
-    update_attribute(:activated_at, Time.zone.now)
+    update_columns(activated: true, activated_at: Time.zone.now)
   end
   
   def send_activation_email
